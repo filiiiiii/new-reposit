@@ -1,2 +1,2 @@
-# new-reposit
-1 repository
+# python_task
+task for python
